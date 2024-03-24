@@ -29,9 +29,9 @@ Note: The GUI may look like it has "crashed", but it has not. Keep an eye on the
   - `save_html_file`: Saves the generated HTML content as an HTML file.
   - `open_html_file`: Opens the HTML file in the default web browser.
   - **Error Handling**: The script includes error handling for file operations, network requests, and user inputs.
-- **API Integration**: Utilises OpenAI's GPT-3.5 model for generating film critiques based on user input prompts.
-- **Modular Design**: Functions are modularized for reusability and maintainability.
-- **User Interaction**: Provides a user-friendly GUI for inputting necessary information and viewing generated critiques.
+  - **API Integration**: Utilises OpenAI's GPT-3.5 model for generating film critiques based on user input prompts.
+  - **Modular Design**: Functions are modularized for reusability and maintainability.
+  - **User Interaction**: Provides a user-friendly GUI for inputting necessary information and viewing generated critiques.
 
 ## Disclaimer:
 This script is provided for educational and demonstration purposes only. The use of this script to access and scrape data from third-party services such as Letterboxd may be subject to their terms of service. Use caution and ensure compliance with all applicable laws and regulations when utilising this script.
